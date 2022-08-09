@@ -19,6 +19,6 @@
   "homepage": "https://github.com/vdeturckheim/pollute-me#readme",
   "dependencies": {
     "express": "^4.18.1",
-    "hoek": "^4.2.0"
+    "hoek": "^6.1.3"
   }
 }
