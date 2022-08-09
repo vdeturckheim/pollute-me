@@ -1,0 +1,24 @@
+{
+  "name": "pollute-me",
+  "version": "1.0.0",
+  "description": "Sample vulnerable app with RCE over prototype pollution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdeturckheim/pollute-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vdeturckheim/pollute-me/issues"
+  },
+  "homepage": "https://github.com/vdeturckheim/pollute-me#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "hoek": "^4.2.0"
+  }
+}
